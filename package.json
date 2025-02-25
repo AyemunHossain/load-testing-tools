@@ -1,0 +1,30 @@
+{
+  "name": "load-testing-tools",
+  "version": "1.0.0",
+  "description": "This repository provides a **load testing tool** built with **Node.js** to analyze and optimize the performance of web applications, APIs, and microservices. It includes ready-to-use scripts and simulation like **Apache JMeter**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "load": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyemunHossain/load-testing-tools.git"
+  },
+  "keywords": [
+    "load-testing",
+    "jmeter"
+  ],
+  "author": "github.com/ayemunhossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyemunHossain/load-testing-tools/issues"
+  },
+  "homepage": "https://github.com/AyemunHossain/load-testing-tools#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "joi": "^17.13.3",
+    "p-limit": "^6.2.0"
+  }
+}
