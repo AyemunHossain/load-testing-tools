@@ -23,15 +23,14 @@ npm install
 ```
 
 
-## 📚 Scripts setup
-- **Index.js**: Change the URL of the API to be tested and the number of virtual users, se
 
 ## 🚦 Usage
 ### 1️⃣ Run Load Test
 ```sh
-artillery npm run load
+npm run load
 ```
 
+## Enter the inputs as ask in the console.
 
 ## 📊 Performance Reporting
 - Generate reports in console.
