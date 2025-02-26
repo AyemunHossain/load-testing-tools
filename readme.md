@@ -3,7 +3,7 @@
 ![Load Testing](https://img.shields.io/badge/Load%20Testing-Node.js-green.svg)
 
 ## 🚀 Overview
-This repository provides a collection of **load testing tools** built with **Node.js** to analyze and optimize the performance of web applications, APIs, and microservices. It includes ready-to-use scripts and integrations with popular tools like **Artillery, K6, and Apache JMeter**.
+This repository provides a collection of **load testing tools** built with **Node.js** to analyze and optimize the performance of web applications, APIs, and microservices. It includes ready-to-use scripts work like popular tool **Apache JMeter**.
 
 ## 🎯 Features
 - **Custom Load Testing Scripts** using Node.js
